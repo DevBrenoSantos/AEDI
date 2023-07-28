@@ -1,7 +1,9 @@
 package Conteudo15;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
 public class teste {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
@@ -39,7 +41,7 @@ public class teste {
                 break;
             }
         }
-        if (!achou) 
+        if (!achou)
             System.out.println("Pessoa não encontrada.");
         else {
             System.out.println("Quer removê-la da lista (S/N)?");
@@ -48,6 +50,6 @@ public class teste {
                 Alunos.remove(pos);
             }
         }
-    console.close();
+        console.close();
     }
 }

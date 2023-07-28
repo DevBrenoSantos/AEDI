@@ -1,7 +1,9 @@
+package Conteudo15;
 
 import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;
+
 public class C15ex03 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
@@ -22,6 +24,6 @@ public class C15ex03 {
             P.imprimeInstituicao();
             System.out.println("--------------------");
         }
-    console.close();
+        console.close();
     }
 }
