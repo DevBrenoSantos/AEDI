@@ -1,2 +1,2 @@
 # AEDI
- Algoritmos e Estrutura de Dados I
+Repositório da matéria " Algoritmos e Estrutura de Dados I"
